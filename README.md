@@ -66,7 +66,7 @@ Result: `is_collision`
 To use or develop `simple-simulation`, you must first clone the repository.
 
 ```bash
-$ git clone git@gitlab.ika.rwth-aachen.de:fb-fi/simulation/simple-simulation/simple-simulation.git
+$ git clone git@github.com:ika-rwth-aachen/simple-simulation.git
 $ cd simple-simulation
 ```
 
